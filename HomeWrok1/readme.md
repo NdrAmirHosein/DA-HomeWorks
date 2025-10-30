@@ -7,7 +7,9 @@ linear time.
 
 
 2- You are given a wooden stick of length L, and you are only allowed to cut it into pieces of 
-lengths from the set: {1, l, l², l³, …}, where l ≥ 2 is a fixed integer.
+lengths from the set:
+
+{1, l, l², l³, …}, where l ≥ 2 is a fixed integer.
 
 
 
