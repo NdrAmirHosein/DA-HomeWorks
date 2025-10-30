@@ -1,10 +1,6 @@
-# DS-Homeworks
-Data Structure and Algorithms Codes Projects and Homeworks
-
-
 These are two algorithmic problems
 
-Here are the questions:
+#Here are the questions:
 
 1- Design an algorithm that finds the longest path in a Directed Acyclic Graph (DAG) in 
 linear time.
