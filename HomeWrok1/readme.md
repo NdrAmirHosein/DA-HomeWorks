@@ -11,7 +11,7 @@ lengths from the set: {1, l, l², l³, …}, where l ≥ 2 is a fixed integer.
 
 
 
-I tried to solve them and code it in c++
-First it was so challenging but finally i did it.
+I tried to solve them and code in C++
+First it was so challenging but finally did it.
 
-That's a great move for the first step coding with c++.
+That's a great move for the first step coding with C++.
