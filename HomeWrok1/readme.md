@@ -11,6 +11,9 @@ lengths from the set:
 
 {1, l, l², l³, …}, where l ≥ 2 is a fixed integer.
 
+Design an algorithm that cuts the stick into the minimum number of pieces using only 
+the allowed lengths.
+
 
 
 I tried to solve them and code in C++
